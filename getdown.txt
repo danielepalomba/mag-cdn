@@ -9,4 +9,7 @@ code = gestore.jar
 
 # The main entry point for the application
 class = com.app.Main
+
 verbose = true
+
+delay = true
