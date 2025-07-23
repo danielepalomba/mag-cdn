@@ -1,0 +1,13 @@
+# The URL from which the client is downloaded
+appbase = https://github.com/danielepalomba/mag-cdn/
+
+# UI Configuration
+ui.name = Gestore Example
+
+# Application jar files
+code = gestore.jar
+
+# The main entry point for the application
+class = com.app.Main
+
+version=2

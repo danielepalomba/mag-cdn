@@ -1,0 +1,3 @@
+getdown.txt = d6e370a16cdbdb23c2a25794028fa6ff
+gestore.jar = 7d39d66d1e6620659b9e86c0c02f4f56
+digest.txt = 4e0c27cb944d099e294ab49f2002fb0d
