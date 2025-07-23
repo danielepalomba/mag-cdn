@@ -1,3 +1,3 @@
-getdown.txt = c33f8325ff959621537e4fc51b1a4af4
+getdown.txt = 6816c016494bada838419e4b0b2a0f6f
 gestore.jar = 630428dceedf338618ad3d4c6531829e
-digest.txt = 75c071f2089e23485c03592641346d33
+digest.txt = 29315fed356bee1d4b3b353b63cb6972
