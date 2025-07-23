@@ -10,4 +10,4 @@ code = gestore.jar
 # The main entry point for the application
 class = com.app.Main
 
-version=2
+version=3
