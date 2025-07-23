@@ -1,5 +1,5 @@
 # The URL from which the client is downloaded
-appbase = https://github.com/danielepalomba/mag-cdn/
+appbase = https://danielepalomba.github.io/mag-cdn/
 
 # UI Configuration
 ui.name = Gestore Example
